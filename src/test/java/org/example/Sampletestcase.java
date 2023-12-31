@@ -6,7 +6,15 @@ public class Sampletestcase {
 
     //create a test method
     @Test
-    public void test() {
-        System.out.println("Hello World");
+    public void test1() {
+        System.out.println("Test case 1");
+    }
+    @Test
+    public void test2() {
+        System.out.println("Test case 2");
+    }
+    @Test
+    public void test3() {
+        System.out.println("Test case 3");
     }
 }
